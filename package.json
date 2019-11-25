@@ -8,24 +8,24 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "convert-string": "^0.1.0",
-    "expo": "^35.0.0",
+    "convert-string": "0.1.0",
+    "expo": "35.0.1",
     "expokit": "35.0.3",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
-    "react-native-ble-manager": "^6.7.0",
-    "react-native-unimodules": "^0.6.0",
-    "react-native-web": "^0.11.7",
-    "styled-components": "^4.4.1"
+    "react-native-ble-manager": "6.7.0",
+    "react-native-unimodules": "0.6.0",
+    "react-native-web": "0.11.7",
+    "styled-components": "4.4.1"
   },
   "devDependencies": {
-    "@types/convert-string": "^0.1.0",
-    "@types/react": "^16.8.23",
-    "@types/react-native": "^0.57.65",
-    "@types/styled-components": "^4.4.0",
-    "babel-preset-expo": "^7.1.0",
-    "typescript": "^3.6.3"
+    "@types/convert-string": "0.1.0",
+    "@types/react": "16.9.13",
+    "@types/react-native": "0.57.65",
+    "@types/styled-components": "4.4.0",
+    "babel-preset-expo": "7.1.0",
+    "typescript": "3.7.2"
   },
   "private": true
 }
