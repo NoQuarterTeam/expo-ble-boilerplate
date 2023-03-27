@@ -4348,10 +4348,10 @@ react-is@^16.7.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-ble-manager@6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-ble-manager/-/react-native-ble-manager-6.7.0.tgz#74e1288ae061be7d267389509ed3f7fcd67d9a6f"
-  integrity sha512-hJuij3nWKBp4Ba7GaT8CzTGOp5i33czvU53Emvf6kBxCXNc2tBR55NogTtTC4DbTfrxNQHjr6Ppws7pDcH088w==
+react-native-ble-manager@6.7.2:
+  version "6.7.2"
+  resolved "https://registry.yarnpkg.com/react-native-ble-manager/-/react-native-ble-manager-6.7.2.tgz#af5c809dfb5c1fccbd7ce38d43cb38084cc282fc"
+  integrity sha512-+kqwynaj1BwbE/LSydYbggVZwMGGwlcp9xyMk5H6AOC84EWvv9QZKiMyljYNeRjsrr6F+eFcZ3bH/vRXbcUi0A==
 
 react-native-branch@~3.0.1:
   version "3.0.1"
