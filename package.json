@@ -20,10 +20,10 @@
     "styled-components": "4.4.1"
   },
   "devDependencies": {
-    "@types/convert-string": "0.1.0",
-    "@types/react": "16.9.13",
-    "@types/react-native": "0.60.23",
-    "@types/styled-components": "4.4.0",
+    "@types/convert-string": "0.1.1",
+    "@types/react": "16.14.35",
+    "@types/react-native": "0.71.5",
+    "@types/styled-components": "4.4.3",
     "babel-preset-expo": "7.1.0",
     "typescript": "3.7.2"
   },
