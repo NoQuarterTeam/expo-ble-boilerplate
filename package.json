@@ -16,7 +16,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-ble-manager": "6.7.2",
     "react-native-unimodules": "0.14.10",
-    "react-native-web": "0.18.12",
+    "react-native-web": "0.19.4",
     "styled-components": "4.4.1"
   },
   "devDependencies": {
