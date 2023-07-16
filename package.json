@@ -10,7 +10,7 @@
   "dependencies": {
     "convert-string": "0.1.0",
     "expo": "35.0.1",
-    "expokit": "35.0.4",
+    "expokit": "37.0.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
