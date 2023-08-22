@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "convert-string": "0.1.0",
-    "expo": "35.0.1",
+    "expo": "49.0.8",
     "expokit": "35.0.4",
     "react": "16.14.0",
     "react-dom": "16.14.0",
@@ -24,7 +24,7 @@
     "@types/react": "16.14.45",
     "@types/react-native": "0.72.2",
     "@types/styled-components": "4.4.3",
-    "babel-preset-expo": "7.1.0",
+    "babel-preset-expo": "9.5.2",
     "typescript": "3.9.10"
   },
   "private": true
