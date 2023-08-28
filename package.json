@@ -21,9 +21,9 @@
   },
   "devDependencies": {
     "@types/convert-string": "0.1.1",
-    "@types/react": "16.14.46",
+    "@types/react": "18.2.21",
     "@types/react-native": "0.72.2",
-    "@types/styled-components": "4.4.3",
+    "@types/styled-components": "5.1.26",
     "babel-preset-expo": "7.1.0",
     "typescript": "3.9.10"
   },
